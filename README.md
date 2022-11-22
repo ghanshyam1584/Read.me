@@ -34,7 +34,7 @@ Currently trying my hand at AR/VR domain and Web3.0 🔗
 
 
 ### 📊 Some Fun Stats:
-| ![image](https://github-readme-stats.vercel.app/api?username=mridulgoel03&&show_icons=true&title_color=ffff88ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgoel03&theme=midnight-purple) | 
+| ![image](https://github-readme-stats.vercel.app/api?username=ghanshyam1584&&show_icons=true&title_color=ffff88ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgoel03&theme=midnight-purple) | 
 | --- | --- |
 😍 Total Views on Profile:<br><br>
 ![Visitor Count](https://profile-counter.glitch.me/mridulgoel03/count.svg) |
